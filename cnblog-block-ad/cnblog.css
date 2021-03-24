@@ -1,0 +1,35 @@
+#google_ad_c1,
+#div-gpt-ad-1320933818841-0,
+#google_ad_c2,
+#div-gpt-ad-1320933818841-1,
+#ad_under_google
+{
+    display:none;
+    visibility：hidden;
+}
+
+#cnblogs_send,
+#cnblogs_event,
+#cnblogs_Link,
+#cnblogs_click,
+#under_post_card,
+#under_post_card1,
+#cnblogs_c1,
+#cnblogs_c2,
+#ad_t2,
+#opt_under_post
+{
+    display: none !important;
+}
+
+.itnews,
+.c_ad_block
+{
+    display: none !important;
+}
+
+/* 看板娘 */
+canvas#live2dcanvas {
+    border: 0 !important;
+    left: 0;
+}
